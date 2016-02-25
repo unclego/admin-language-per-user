@@ -35,6 +35,10 @@ No FAQ yet
 
 == Changelog ==
 
+= 1.0.1 =
+* Added `uninstall.php` to remove user meta options on uninstall.
+* Added activation-time check for minimum WordPress version.
+
 = 1.0 =
 * Initial version.
 
