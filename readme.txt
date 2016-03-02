@@ -30,15 +30,24 @@ Lets you have your backend administration panel in english or any installed lang
 No FAQ yet
 
 == Screenshots ==
-
 1. Wordpress admin screen
 
 == Changelog ==
+= 1.0.2 =
+= Release date: February 29th, 2016 =
+* Cleanup user data on uninstall
+* Minimum Wprdpress version check on activation
+* Disallow direct HTTP access.
 
-= 1.0 =
+= 1.0.1 =
+= Release date: February 29th, 2016 =
+* Don't add locale filter when not displaying wordpress admin panel
+
+= 1.0.0 =
+= Release date: February 2th, 2016 =
 * Initial version.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.2 =
 Just do it!
